@@ -1,0 +1,89 @@
+body {
+    margin-bottom: 80px; 
+    margin-top: 25px; 
+    background-image: url("../images/pokeball.png");
+}
+
+.panel-body {
+    padding-top: 0; 
+}
+
+.h1, h1 {
+    text-align: center; 
+}
+
+.h2, h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    vertical-align: middle;
+    width: 15%;
+    margin-left: 45%;
+}
+
+p {
+     text-align: center;
+}
+
+
+.h3, h3 {
+       text-align: center;
+}
+
+.h4, h4 {
+    text-align: center; 
+}
+
+
+button, input, select, textarea {
+    align-content: center; 
+    margin: 5px; 
+}
+
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: none; 
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 9px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 8px;
+    float: left;
+    /* margin: 0 auto; */
+    margin-left: 45%;
+    margin-bottom: 50px;
+
+}
+
+    .btn-danger {
+        color: #fff;
+        background-color: #d9534f;
+        border-color: #d43f3a;
+        margin-left: 45%;
+        margin-bottom: 50px;
+    
+    }
+
+
+.center {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
+
+
+.fix{
+    width: 100%;
+    padding: 0px;
+}
+
